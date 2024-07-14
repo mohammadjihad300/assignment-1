@@ -10,6 +10,11 @@
 .text-color-two{
     color: #0D1321;
     opacity: 0.7;
+    text-align: center;
+}
+.text-color-three{
+    color: #0D1321;
+    opacity: 0.7;
 }
 header{
     width: 1440;
@@ -35,4 +40,63 @@ header{
     border-radius: 8px;
     font-size: 20px;
     margin-top: 32px;
+}
+.main-div-child{
+    display: flex;
+    padding: 45px;
+    background-color: white;
+    border-radius: 16px;
+    justify-content: space-between;
+}
+.section-one{
+    margin: 74px 150px;
+    background-color: #fafafa;
+    border-radius: 16px;
+    padding: 80px 100px;
+}
+.section-head{
+    width: 851;
+    height: 39px;
+    font-size: 32px;
+    text-align: center;
+}
+.main-div{
+    margin: 32px 0px;
+}
+.first-section-buttons{
+    width: 150;
+    height: 48px;
+    font-size: 20px;
+    margin-top: 32px;
+    padding: 12px 20px;
+}
+.section-one-heads{
+    font-size: 24px;
+}
+.main-div-gson-img{
+    width: 274.17;
+    height: 240px;
+}
+.main-div-gson{
+    width: 477;
+    height: 240px;
+}
+.main-head-div{
+    margin-bottom: 48px;
+}
+.section-two{
+    margin: 85px 150px;
+}
+.second-section-main-div{
+    margin: 0px 144px;
+}
+.second-section-main-div-link{
+    border: 1px solid #d1d1d1;
+    border-radius: 16px;
+    padding: 32px;
+    text-align: center;
+    margin-top: 48px;
+}
+.second-section-main-div-main-link{
+    border-radius: 16px;
 }
