@@ -100,3 +100,55 @@ header{
 .second-section-main-div-main-link{
     border-radius: 16px;
 }
+.section-three{
+    width: 1140;
+    height: 460px;
+    margin: 150px;
+}
+.section-three-div-one{
+    margin: 0px 144px;
+    margin-bottom: 48px;
+    width: 852;
+    height: 113px;
+}
+.section-three-div-two{
+    display: flex;
+    justify-content: space-around;
+}
+.section-three-div-two{
+    width: 1140;
+    height: 299;
+    gap: 24px;
+}
+.text-color-for-three-p{
+    color: #0D1321;
+    opacity: 0.7;
+}
+.ancore-three{
+    font-weight: bold;
+    width: 284;
+    height: 19px;
+    color: #0D1321;
+    margin-top: 24px;
+}
+.section-three-div-two-child-one{
+    padding: 40px;
+    width: 364;
+    height: 299px;
+    background-color: rgba(255, 76, 30, 0.05);
+    border-radius: 16px;
+}
+.section-three-div-two-child-two{
+    padding: 40px;
+    width: 364;
+    height: 299px;
+    background-color: rgba(0, 76, 232, 0.05);
+    border-radius: 16px;
+}
+.section-three-div-two-child-three{
+    padding: 40px;
+    width: 364;
+    height: 299px;
+    background-color: rgba(255, 223, 0, 0.05);
+    border-radius: 16px;
+}
